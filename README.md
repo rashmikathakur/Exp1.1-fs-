@@ -118,11 +118,7 @@ Add screenshots of the following:
 
 **Netlify Deployment:**
 
-👉 **Paste your Netlify URL here**
-
-Example:
-
-https://your-project-name.netlify.app
+👉 https://post-compose1exp1.netlify.app/
 
 ---
 
