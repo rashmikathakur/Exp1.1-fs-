@@ -100,20 +100,6 @@ The application will open at:
 http://localhost:3000
 ```
 
----
-
-## 📸 Screenshots
-
-Add screenshots of the following:
-
-* Home Screen
-* Platform Selection
-* Character Validation
-* Connect Account
-* Publish Success Message
-
----
-
 ## 🌐 Live Demo
 
 **Netlify Deployment:**
@@ -133,14 +119,3 @@ Add screenshots of the following:
 
 ---
 
-## 👩‍💻 Author
-
-**Rashmika Thakur**
-
-Bachelor of Engineering (Computer Science & Engineering - Cyber Security)
-
----
-
-## 📜 License
-
-This project is created for educational and learning purposes.
